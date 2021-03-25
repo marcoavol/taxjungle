@@ -1,4 +1,5 @@
 # Project: TaxJungle
+
 Taxjungle was the final project that I and three of my collegues built during the last two-and-a-half weeks of the full-stack developer bootcamp at Propulsion Academy, Zurich.
 
 The project opportunity was provided by Keen Innovation AG, a company located in Basel, Switzerland, that provides forward-thinking digital solutions for unsolved customer problems in the local and global FinTech ecosystem. With Taxjungle (www.taxjungle.ch) Keen Innovation AG wants to help the roughly 40k foreigners moving to Switzlerand every year to choose their place of living by offering super intuitive tools and thereby build a relationship with the users that eventually leads to them becoming customers of BKB or Bank Cler.
@@ -6,10 +7,14 @@ The project opportunity was provided by Keen Innovation AG, a company located in
 Our goal was to rebuild the existing functionality from scratch (except the API providing the swiss taxation data) while improving it wherever possible and adding a new social component to it that allows for interaction with the users and providing informative content on various finance-related topics. For the interactive map we decided to do it purely with D3 (instead of using tools like datawrapper) to create as little dependencies as possible and allow for greater customization and future inclusion of additional data layers (for example average renting prices).
 
 # Features
-- Interactive map of Switzerland that allows for calculation (based on individual configuration) and comparison of expected taxation rates between cantons and municipalities
-- Blog component that allows for creating, commenting and sharing articles for different finance related categories/topics (including a search functionality)
-- User authentication
-- User profiles that can be edited or deleted
+
+* Interactive map of Switzerland that allows for calculation (based on individual configuration) and comparison of expected taxation rates between cantons and municipalities
+
+* Blog component that allows for creating, commenting and sharing articles for different finance related categories/topics (including a search functionality)
+
+* User authentication
+*
+* User profiles that can be edited or deleted
 
 # Tech-Stack
 
@@ -27,6 +32,7 @@ Our goal was to rebuild the existing functionality from scratch (except the API 
 Include logo/demo screenshot etc. TBD
 
 # Credits
+
 This project was developed in collaboration between Propulsion Academy AG (https://propulsion.academy) and Keen Innovation AG (https://keen-innovation.ch).
 
 The geological map data is provided by Swisstopo (https://www.swisstopo.admin.ch/) and the conversion to the needed TopoJSON format was done with Swiss Maps Generator (https://swiss-maps.vercel.app) by Interactive Things (https://www.interactivethings.com).

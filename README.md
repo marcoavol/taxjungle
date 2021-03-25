@@ -13,9 +13,8 @@ Our goal was to rebuild the existing functionality from scratch (except the API 
 
 * Blog component that allows for creating, commenting and sharing articles for different finance related categories/topics (including a search functionality)
 
-* User authentication
-*
-* User profiles that can be edited or deleted
+* User authentication and profiles
+
 
 ## Tech-Stack
 

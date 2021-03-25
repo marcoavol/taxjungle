@@ -1,70 +1,32 @@
-# Project / Motivation: TaxJungle
-Every year some 40k foreigners move to CH and have to choose their place of living, defined by myriads of dimensions: taxes, renting / buying price levels, family preferences & needs like schools, commuting time, etc. We want to help this audience with easy, super intuitive tools and thereby build a relationship with expats that then eventually leads to them becoming customers of BKB or Bank Cler. Starting with taxes through www.taxjungle.ch we want to implement additional data dimensions relevant to choosing the right place to live for people moving to or within CH.
+# Project: TaxJungle
+Taxjungle was the final project that I and three of my collegues built during the last two-and-a-half weeks of the full-stack developer bootcamp at Propulsion Academy, Zurich.
 
-# Build Status
-show: Build status of continus integration TBD
+The project opportunity was provided by Keen Innovation AG, a company located in Basel, Switzerland, that provides forward-thinking digital solutions for unsolved customer problems in the local and global FinTech ecosystem. With Taxjungle (www.taxjungle.ch) Keen Innovation AG wants to help the roughly 40k foreigners moving to Switzlerand every year to choose their place of living by offering super intuitive tools and thereby build a relationship with the users that eventually leads to them becoming customers of BKB or Bank Cler.
+
+Our goal was to rebuild the existing functionality from scratch (except the API providing the swiss taxation data) while improving it wherever possible and adding a new social component to it that allows for interaction with the users and providing informative content on various finance-related topics. For the interactive map we decided to do it purely with D3 (instead of using tools like datawrapper) to create as little dependencies as possible and allow for greater customization and future inclusion of additional data layers (for example average renting prices).
+
+# Features
+- Interactive map of Switzerland that allows for calculation (based on individual configuration) and comparison of expected taxation rates between cantons and municipalities
+- Blog component that allows for creating, commenting and sharing articles for different finance related categories/topics (including a search functionality)
+- User authentication
+- User profiles that can be edited or deleted
+
+# Tech-Stack
+
+* Javascript, React, Redux, D3 (Frontend)
+
+* Python, Django (Backend)
+
+* Postgres (Database)
+
+* Digital Ocean, Docker, Nginx (Deployment)
+
+* Gitlab, Gitlab-Runner (CI/CD)
 
 # Screenshots
 Include logo/demo screenshot etc. TBD
 
-# Tech / Framework Used
-
-## Built with
-
-* Javascript, React-Redux (Frontend)
-
-* Python, Django (Backend)
-
-* Postgres (Realtional Database)
-
-* Docker, Digital Ocean (Deployment)
-
-* Datawrapper (Map Prototyping)
-
-* Gitlab (workflow)
-
-* Libraries etc...
-
-# Features
-- Taxjungle combines the best features of other solutions available on the market
-Taxes can be compared across Switzerland (not only in one place)
-
-- Tax rates can be adapted to specific family situations (only special cases are listed in annual publications in the Tagesanzeiger)
-
-- Calculation bases are openly communicated
-Taxjungle is available in 4 official national languages as well as in English and “Baseldeutsch”
-
-- logged in members can connect with each other and share their experiences and hints when moving to another country to - facilitate insight sharing 
-
-- through an additional social component following additional features are implemented: 
-
-        - creation of posts
-
-        - creation of comments
-
-        - like a comment 
-
-        - create friends requests
-
-
-# Code Example
-TBD
-
-# Installation
-Provide step by step series of examples and explanations about how to get a development env running.
-
-- $ git clone https://....
-- $ cd ../path/to/your/file/frontend
-- $ npm install
-- $ npm start
-
-.....
-
-# How to use?
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project. TBD
-
 # Credits
-This project was developed in collaboration with KEEN INOVATION.
+This project was developed in collaboration between Propulsion Academy AG (https://propulsion.academy) and Keen Innovation AG (https://keen-innovation.ch).
 
-# License
-TBD
+The geological map data is provided by Swisstopo (https://www.swisstopo.admin.ch/) and the conversion to the needed TopoJSON format was done with Swiss Maps Generator (https://swiss-maps.vercel.app) by Interactive Things (https://www.interactivethings.com).

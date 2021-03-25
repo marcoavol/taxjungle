@@ -1,4 +1,5 @@
-# Project: TaxJungle
+# TaxJungle
+# Project
 
 Taxjungle was the final project that I and three of my collegues built during the last two-and-a-half weeks of the full-stack developer bootcamp at Propulsion Academy, Zurich.
 

@@ -15,7 +15,6 @@ Our goal was to rebuild the existing functionality from scratch (except the API 
 
 * User authentication and profiles
 
-
 ## Tech-Stack
 
 * Javascript, React, Redux, D3 (Frontend)
@@ -29,7 +28,14 @@ Our goal was to rebuild the existing functionality from scratch (except the API 
 * Gitlab, Gitlab-Runner (CI/CD)
 
 ## Screenshots
-Include logo/demo screenshot etc. TBD
+![map](/screenshots/map2.png?raw=true)
+![map](/screenshots/map1.png?raw=true)
+![map](/screenshots/map3.png?raw=true)
+![map](/screenshots/map4.png?raw=true)
+![map](/screenshots/authentication.png?raw=true)
+![map](/screenshots/blog1.png?raw=true)
+![map](/screenshots/blog2.png?raw=true)
+![map](/screenshots/blog3.png?raw=true)
 
 ## Credits
 

@@ -1,5 +1,5 @@
 # TaxJungle
-# Project
+## Project
 
 Taxjungle was the final project that I and three of my collegues built during the last two-and-a-half weeks of the full-stack developer bootcamp at Propulsion Academy, Zurich.
 
@@ -7,7 +7,7 @@ The project opportunity was provided by Keen Innovation AG, a company located in
 
 Our goal was to rebuild the existing functionality from scratch (except the API providing the swiss taxation data) while improving it wherever possible and adding a new social component to it that allows for interaction with the users and providing informative content on various finance-related topics. For the interactive map we decided to do it purely with D3 (instead of using tools like datawrapper) to create as little dependencies as possible and allow for greater customization and future inclusion of additional data layers (for example average renting prices).
 
-# Features
+## Features
 
 * Interactive map of Switzerland that allows for calculation (based on individual configuration) and comparison of expected taxation rates between cantons and municipalities
 
@@ -17,7 +17,7 @@ Our goal was to rebuild the existing functionality from scratch (except the API 
 *
 * User profiles that can be edited or deleted
 
-# Tech-Stack
+## Tech-Stack
 
 * Javascript, React, Redux, D3 (Frontend)
 
@@ -29,10 +29,10 @@ Our goal was to rebuild the existing functionality from scratch (except the API 
 
 * Gitlab, Gitlab-Runner (CI/CD)
 
-# Screenshots
+## Screenshots
 Include logo/demo screenshot etc. TBD
 
-# Credits
+## Credits
 
 This project was developed in collaboration between Propulsion Academy AG (https://propulsion.academy) and Keen Innovation AG (https://keen-innovation.ch).
 

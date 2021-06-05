@@ -1,7 +1,7 @@
 # TaxJungle
 ## Project
 
-Taxjungle was the final project the four of us built during the last two-and-a-half weeks of the full-stack developer bootcamp at Propulsion Academy, Zurich.
+Taxjungle was the final project three fellow students and I built during the last two-and-a-half weeks of the full-stack developer bootcamp at Propulsion Academy, Zurich.
 
 The project opportunity was provided by Keen Innovation AG, a company located in Basel, Switzerland, that provides forward-thinking digital solutions for unsolved customer problems in the local and global FinTech ecosystem. With Taxjungle (www.taxjungle.ch) Keen Innovation AG wants to help the roughly 40k foreigners moving to Switzlerand every year to choose their place of living by offering super intuitive tools and thereby build a relationship with the users that eventually leads to them becoming customers of BKB or Bank Cler.
 

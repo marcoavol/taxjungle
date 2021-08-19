@@ -33,6 +33,7 @@ Our goal was to rebuild the existing functionality from scratch (except the API 
 ![map](/screenshots/map3.png?raw=true)
 ![map](/screenshots/map4.png?raw=true)
 ![map](/screenshots/authentication.png?raw=true)
+![map](/screenshots/profile.png?raw=true)
 ![map](/screenshots/blog1.png?raw=true)
 ![map](/screenshots/blog2.png?raw=true)
 ![map](/screenshots/blog3.png?raw=true)

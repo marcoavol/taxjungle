@@ -42,4 +42,4 @@ Our goal was to rebuild the existing functionality from scratch (except the API 
 
 This project was developed in collaboration between Propulsion Academy AG (https://propulsion.academy) and Keen Innovation AG (https://keen-innovation.ch).
 
-The geological map data is provided by Swisstopo (https://www.swisstopo.admin.ch/) and the conversion to the needed TopoJSON format was done with Swiss Maps Generator (https://swiss-maps.vercel.app) by Interactive Things (https://www.interactivethings.com).
+The geological map data is provided by Swisstopo (https://www.swisstopo.admin.ch/) and the conversion to TopoJSON format was done with Swiss Maps Generator (https://swiss-maps.vercel.app) by Interactive Things (https://www.interactivethings.com).
